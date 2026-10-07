@@ -66,6 +66,19 @@ These are my current public projects. There is no particular genre restriction.
 
 > `minase-cfw-bot` is archived, so it is excluded from the current project list.
 
+## 📜 License overview
+
+Personal projects may use the **inumabu Custom License**, as described by each repository's README and `LICENSE` file. The canonical, versioned license text is maintained at [`inumabu/license`](https://github.com/inumabu/license).
+
+- Current canonical version: [`2026-10-08`](https://github.com/inumabu/license/releases/tag/2026-10-08)
+- ✅ Personal, educational, research, modified, commercial, and non-commercial use are allowed
+- ✅ Sharing within friends, communities, development groups, and teams is allowed
+- ✅ Introducing the work with a link to the original repository is allowed
+- ⚠️ False claims of authorship and unrestricted public redistribution are not allowed
+- ❌ Malicious use, unauthorized access, information theft, fraud, and harm to third parties are prohibited
+
+Please follow the license version included in each project repository. Read that project's `LICENSE` file for the full terms. This profile section is an overview and does not replace the full license text.
+
 ## 🛠️ Tech stack
 
 ![Skills](https://skillicons.dev/icons?i=ts,python,go,ruby,java,js,html,react,vite,electron,rails,spring,docker&perline=10&theme=dark)
