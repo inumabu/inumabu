@@ -66,6 +66,19 @@ Webアプリ、Discord Bot、AI、開発者向けツール、ゲーム、デス�
 
 > `minase-cfw-bot` はArchivedのため、現在のプロジェクト一覧からは除外しています。
 
+## 📜 License overview
+
+Personal projects may use the **inumabu Custom License**, depending on each repository's README and `LICENSE` file. The canonical, versioned license text is maintained at [`inumabu/license`](https://github.com/inumabu/license).
+
+- Current canonical version: [`2026-10-08`](https://github.com/inumabu/license/releases/tag/2026-10-08)
+- ✅ Personal, educational, research, modified, commercial, and non-commercial use are allowed
+- ✅ Sharing within friends, communities, development groups, and teams is allowed
+- ✅ Introducing this work with a link to the original repository is allowed
+- ⚠️ False claims of authorship and unrestricted public redistribution are not allowed
+- ❌ Malicious use, unauthorized access, information theft, fraud, and harm to third parties are prohibited
+
+Each project should follow the license version included in its own repository. Please check the project's `LICENSE` file before use. This profile summary is only an overview and does not replace the full license text.
+
 ## 🛠️ Tech stack
 
 <p>

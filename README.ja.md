@@ -103,6 +103,19 @@ Windows向けのモダンなデスクトップコードエディタです。
 
 > `minase-cfw-bot` はArchivedのため、現在のプロジェクト一覧からは除外しています。
 
+## 📜 ライセンス概要
+
+個人開発プロジェクトでは、各リポジトリのREADMEと`LICENSE`に記載された範囲で、**inumabuカスタムライセンス**を適用しています。ライセンス本文の正本・改訂履歴は[`inumabu/license`](https://github.com/inumabu/license)で管理しています。
+
+- 現在の正本: [`2026-10-08版`](https://github.com/inumabu/license/releases/tag/2026-10-08)
+- ✅ 個人利用、学習、研究、改造、商用・非商用利用を許可
+- ✅ 友人・知人、コミュニティ、開発グループ、チーム内での共有を許可
+- ✅ 元リポジトリへのリンクを付けた紹介を許可
+- ⚠️ 自作発言と不特定多数への無制限な再配布を禁止
+- ❌ 悪意ある利用、不正アクセス、情報窃取、詐欺、第三者への損害を禁止
+
+利用時は各プロジェクトに同梱されたライセンス版に従ってください。詳細な条件はプロジェクトの`LICENSE`を確認してください。このプロフィールの記載は概要であり、正式なライセンス本文に代わるものではありません。
+
 ## 🛠️ 技術スタック
 
 ![Skills](https://skillicons.dev/icons?i=ts,python,go,ruby,java,js,html,react,vite,electron,rails,spring,docker&perline=10&theme=dark)
