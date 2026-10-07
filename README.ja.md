@@ -4,11 +4,14 @@
 
 ### 🛠️ なんでも作る個人開発者
 
-Webアプリ、Discord Bot、開発者向けツール、ゲーム、実験的なプロジェクトまで。
-**TypeScript・Python・Go・Ruby** を中心に、作りたいものを形にしています。
+**まぶ / Mabu** · `@inumabu`
+
+Webアプリ、Discord Bot、AI、開発者向けツール、デスクトップアプリ、
+ゲーム、音声、プログラミング言語、実験的なものまで。
+**作りたいと思ったものを、ジャンルを問わず形にしています。**
 
 [![GitHub](https://img.shields.io/badge/GitHub-inumabu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inumabu)
-[![Projects](https://img.shields.io/badge/Projects-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inumabu?tab=repositories)
+[![Repositories](https://img.shields.io/badge/Projects-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inumabu?tab=repositories)
 
 [プロフィールトップへ戻る](README.md) · [English README](README.en.md)
 
@@ -16,81 +19,80 @@ Webアプリ、Discord Bot、開発者向けツール、ゲーム、実験的な
 
 ---
 
-## 👋 何を作っているか
+## 👋 プロフィール
 
 ジャンルを固定せず、**「これ作ってみたい」から始めて、実際に動くところまで持っていく**個人開発者です。
 
-Discordまわりの開発はもちろん、Web、CLI、便利ツール、ゲーム、音声、API連携など、面白そうなものは何でも触ります。
+そのとき必要なもの・面白そうなものに合わせて、言語やフレームワーク、実行環境まで選びます。
+Botを作ったと思ったらWebを作り、Webを作ったと思ったらデスクトップアプリや言語処理系を作っている、そんな感じです。
 
-| 分野 | つくっているもの |
+| | What I make |
 | --- | --- |
-| 🌐 | Webアプリ / Webサイト |
-| 🤖 | Discord Bot / コミュニティツール |
-| 🧰 | 開発者向けツール / 便利ツール |
-| 🎮 | ゲーム / インタラクティブなプロジェクト |
-| 🔊 | 音声 / オーディオ関連 |
-| 🧪 | 実験 / プロトタイプ |
+| 🌐 | Web apps / Websites |
+| 🤖 | Discord bots / Community tools |
+| 🧠 | AI / LLM / Agents |
+| 🧰 | Developer tools / Utilities |
+| 🖥️ | Desktop applications |
+| 🎮 | Games / Interactive projects |
+| 🔊 | Voice / Audio projects |
+| 🧪 | Programming languages / Experiments |
+| 💡 | Prototypes / Anything interesting |
 
 ## 🚀 プロジェクト
 
-**Web、Bot、ツール、ゲーム、実験。作りたいと思ったものは、ジャンルを問わず作ります。**
+**現在公開しているプロジェクトです。新しいものほど上に並べています。**
 
-### 🤖 mabubot
-モジュール構成のDiscordコミュニティBot。
+| Project | Description | Language |
+| --- | --- | --- |
+| 🌐 [mabu-no-site](https://github.com/inumabu/mabu-no-site) | 設計・実装・検証を一つの流れとして見せる個人ポートフォリオ | `HTML` |
+| 🌙 [yanagi](https://github.com/inumabu/yanagi) | Discord Botを支える統合エコシステム基盤 | `TypeScript` |
+| 🤖 [mabubot](https://github.com/inumabu/mabubot) | コミュニティを楽しく便利にするDiscord Bot | `TypeScript` |
+| 🎲 [asobibot](https://github.com/inumabu/asobibot) | みんなで遊べる日本語向けDiscord Bot | `Python` |
+| 🔊 [yomiage](https://github.com/inumabu/yomiage) | Discordの会話をVOICEVOXで読み上げるBot | `Go` |
+| 🧰 [kokoneads](https://github.com/inumabu/kokoneads) | 日常の開発作業を効率化するWebツール集 | `HTML` |
+| ☕ [java-learning-support](https://github.com/inumabu/java-learning-support) | Javaを学ぶためのWeb学習支援サイト | `Java` |
+| 🚀 [touwa-editor](https://github.com/inumabu/touwa-editor) | Windows向けのモダンなデスクトップコードエディタ | `TypeScript` |
+| 🧠 [mojule](https://github.com/inumabu/mojule) | 知識と機能を組み合わせるモジュール型AIエージェント | `TypeScript` |
+| 🍅 [aurorasauce](https://github.com/inumabu/aurorasauce) | 料理をテーマにした学習用プログラミング言語 | `Python` |
 
-→ https://github.com/inumabu/mabubot
-
-### 🔊 yomiage
-Discordの投稿をVOICEVOXで読み上げるBot。
-
-→ https://github.com/inumabu/yomiage
-
-### 🎲 asobibot
-おみくじ、サイコロ、じゃんけん、クイズなど、気軽に遊べる機能をまとめたBot。
-
-→ https://github.com/inumabu/asobibot
-
-### 🧰 kokoneads
-JSON・文字列・URL・Markdownなどを扱う開発者向けツール。
-
-→ https://github.com/inumabu/kokoneads
-
-### 🧪 mabusan
-Next.js + TypeScript を使ったWebアプリ開発プロジェクト。
-
-→ https://github.com/inumabu/mabusan
-
-### 🌿 yanagi
-TypeScriptで進めている新しいプロジェクト。
-
-→ https://github.com/inumabu/yanagi
+> `inumabu` はこのプロフィールREADMEを置いているリポジトリです。
+> Archived の `minase-cfw-bot` は現在のプロジェクト一覧から除外しています。
 
 [→ すべてのリポジトリを見る](https://github.com/inumabu?tab=repositories)
 
 ## 🛠️ 技術スタック
 
-![Skills](https://skillicons.dev/icons?i=ts,python,go,ruby,rails,js,nextjs,discord,sqlite,docker&perline=10&theme=dark)
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,python,go,ruby,java,js,react,nextjs,vite,electron,rails,spring,docker&perline=13&theme=dark" alt="Tech stack" />
+</p>
 
-`TypeScript` · `Python` · `Go` · `Ruby` · `Rails` · `JavaScript` · `Next.js` · `Discord API` · `VOICEVOX` · `SQLite` · `Docker`
+`TypeScript` · `Python` · `Go` · `Ruby` · `Java` · `JavaScript` · `React` · `Next.js` · `Vite` · `Electron` · `Rails` · `Spring Boot` · `Express` · `Hono` · `Cloudflare Workers` · `Docker` · `discord.js` · `VOICEVOX`
+
+## 👤 プロフィール情報
+
+| | |
+| --- | --- |
+| **Name** | まぶ / Mabu |
+| **GitHub** | [@inumabu](https://github.com/inumabu) |
+| **Profile** | [github.com/inumabu](https://github.com/inumabu) |
+
+### 🔗 Links
+
+[GitHub Profile](https://github.com/inumabu) · [All Repositories](https://github.com/inumabu?tab=repositories) · [Portfolio source](https://github.com/inumabu/mabu-no-site)
+
+> Location / SNS / personal-site links are not added here unless they can be confirmed from the public GitHub profile.
 
 ## 🧭 開発スタイル
 
-> **作りたい → 試す → 動かす → 使ってみる → 改善する**
+> **思いつく → 作る → 動かす → 試す → 改善する**
 
 技術を目的にするより、**目的に合わせて道具を選ぶ**スタイルです。
-必要なら新しい言語やフレームワークも触ります。
+必要なら新しい言語やフレームワークも触り、まず動くものを作ってから育てていきます。
 
 ## 🔎 探す
 
-[すべてのリポジトリ](https://github.com/inumabu?tab=repositories) · [mabubot docs](https://github.com/inumabu/mabubot/tree/main/docs) · [プロフィールトップ](README.md)
-
-## 🤝 つながる
-
-[![Follow on GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inumabu)
-[![Explore projects](https://img.shields.io/badge/Explore_projects-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inumabu?tab=repositories)
-
-SNSや個人サイトのリンクは、必要になったらここに追加します。
+[📁 All repositories](https://github.com/inumabu?tab=repositories) · [🌐 mabu-no-site](https://github.com/inumabu/mabu-no-site) · [🌙 yanagi](https://github.com/inumabu/yanagi) · [🤖 mabubot](https://github.com/inumabu/mabubot) · [🧠 mojule](https://github.com/inumabu/mojule)
 
 ---
 
-<sub>🛠️ 便利そうなもの、面白そうなもの、楽しそうなものは、とりあえず作ってみます。</sub>
+<sub>🛠️ 便利そうなもの、面白そうなもの、必要なもの。だいたい作ります。</sub>
