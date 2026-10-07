@@ -71,13 +71,23 @@ JSON・文字列・URL・Markdownなどを扱うブラウザ中心の開発者�
 
 → https://github.com/inumabu/aurorasauce
 
+### ☕ java-learning-support
+Java 21、Spring Boot、Thymeleaf、Oracle Databaseを使ったJava学習支援WebサイトのSkeleton。現在は起動基盤、学習入口画面、DB接続、ヘルスチェック、Docker Compose、最小テストなどを実装しています。
+
+→ https://github.com/inumabu/java-learning-support
+
+### 🚀 touwa-editor
+Electron + React + TypeScript + Monaco Editorで構築するデスクトップコードエディタのFoundation。Windowsを主要対象とし、Renderer / Preload / Mainの境界、型付きIPC、Workspace境界チェックなどを重視しています。
+
+→ https://github.com/inumabu/touwa-editor
+
 [→ すべてのリポジトリを見る](https://github.com/inumabu?tab=repositories)
 
 ## 🛠️ 技術スタック
 
 ![Skills](https://skillicons.dev/icons?i=ts,python,go,ruby,rails,js,react,vite,express,discord,sqlite,docker&perline=10&theme=dark)
 
-`TypeScript` · `Python` · `Go` · `Ruby` · `Rails` · `JavaScript` · `React` · `Vite` · `Express` · `discord.js` · `discordgo` · `VOICEVOX` · `SQLite` · `Docker`
+`TypeScript` · `Python` · `Go` · `Ruby` · `Java` · `Rails` · `Spring Boot` · `JavaScript` · `React` · `Vite` · `Express` · `Electron` · `Monaco Editor` · `discord.js` · `discordgo` · `VOICEVOX` · `SQLite` · `Oracle` · `Docker`
 
 ## 🧭 開発スタイル
 

@@ -71,13 +71,23 @@ A small educational programming language implementation themed around aurora sau
 
 → https://github.com/inumabu/aurorasauce
 
+### ☕ java-learning-support
+A Java learning support website skeleton built with Java 21, Spring Boot, Thymeleaf, and Oracle Database. It currently focuses on the application foundation, learning entry screen, database connectivity, health checks, Docker Compose, and minimal tests.
+
+→ https://github.com/inumabu/java-learning-support
+
+### 🚀 touwa-editor
+A maintainable desktop code editor foundation built with Electron, React, TypeScript, and Monaco Editor. It targets Windows first while keeping clear Renderer / Preload / Main boundaries, typed IPC, and workspace boundary checks.
+
+→ https://github.com/inumabu/touwa-editor
+
 [→ Explore all repositories](https://github.com/inumabu?tab=repositories)
 
 ## 🛠️ Tech stack
 
 ![Skills](https://skillicons.dev/icons?i=ts,python,go,ruby,rails,js,react,vite,express,discord,sqlite,docker&perline=10&theme=dark)
 
-`TypeScript` · `Python` · `Go` · `Ruby` · `Rails` · `JavaScript` · `React` · `Vite` · `Express` · `discord.js` · `discordgo` · `VOICEVOX` · `SQLite` · `Docker`
+`TypeScript` · `Python` · `Go` · `Ruby` · `Java` · `Rails` · `Spring Boot` · `JavaScript` · `React` · `Vite` · `Express` · `Electron` · `Monaco Editor` · `discord.js` · `discordgo` · `VOICEVOX` · `SQLite` · `Oracle` · `Docker`
 
 ## 🧭 How I work
 

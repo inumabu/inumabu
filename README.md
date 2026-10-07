@@ -46,6 +46,8 @@ Discordまわりの開発はもちろん、Web、開発者向けツール、AI�
 | 🧰 [kokoneads](https://github.com/inumabu/kokoneads) | JSON・文字列・URL・Markdownなどを扱うブラウザ中心の開発者向けツールサイト | `Ruby` · `Rails 8.1` · `SQLite` · `JavaScript` |
 | 🧠 [mojule](https://github.com/inumabu/mojule) | 知識・機能・推論をモジュール化する独立型AIエージェント。レシピ、実行履歴、非同期ジョブ、認証/RBACに対応 | `TypeScript` · `React` · `Vite` · `Express` |
 | 🍅 [aurorasauce](https://github.com/inumabu/aurorasauce) | オーロラソースをテーマにした学習用の小さなプログラミング言語処理系 | `Python 3.11+` |
+| ☕ [java-learning-support](https://github.com/inumabu/java-learning-support) | Java学習支援WebサイトのSkeleton。Spring Boot、Thymeleaf、Oracle Databaseを利用 | `Java 21` · `Spring Boot` · `Thymeleaf` · `Oracle` |
+| 🚀 [touwa-editor](https://github.com/inumabu/touwa-editor) | Windowsを主要対象とする、長期保守を見据えたデスクトップコードエディタのFoundation | `Electron` · `React` · `TypeScript` · `Monaco Editor` |
 
 [→ すべてのプロジェクトを見る](https://github.com/inumabu?tab=repositories)
 
@@ -55,7 +57,7 @@ Discordまわりの開発はもちろん、Web、開発者向けツール、AI�
   <img src="https://skillicons.dev/icons?i=ts,python,go,ruby,rails,js,react,vite,express,discord,sqlite,docker&perline=10&theme=dark" alt="Tech stack" />
 </p>
 
-`TypeScript` · `Python` · `Go` · `Ruby` · `Rails` · `JavaScript` · `React` · `Vite` · `Express` · `discord.js` · `discordgo` · `VOICEVOX` · `SQLite` · `Docker`
+`TypeScript` · `Python` · `Go` · `Ruby` · `Java` · `Rails` · `Spring Boot` · `JavaScript` · `React` · `Vite` · `Express` · `Electron` · `Monaco Editor` · `discord.js` · `discordgo` · `VOICEVOX` · `SQLite` · `Oracle` · `Docker`
 
 ## 🧭 How I work
 
