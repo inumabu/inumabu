@@ -70,7 +70,7 @@ Discord Botを支える統合エコシステム基盤です。
 → https://github.com/inumabu/asobibot
 
 ### 🔊 yomiage
-Discordの会話をVOICEVOXで読み上げるBotです。
+DiscordのメッセージをVOICEVOXで読み上げる、低メモリ環境向けの配布・運用セットです。TTSキャッシュ、DAVE対応、systemd / Docker Desktop / WSL2向けの構成を含みます。
 
 → https://github.com/inumabu/yomiage
 

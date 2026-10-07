@@ -55,7 +55,7 @@ These are my current public projects. There is no particular genre restriction.
 | 🌙 [yanagi](https://github.com/inumabu/yanagi) | Foundation for a Discord Bot ecosystem | `TypeScript` |
 | 🤖 [mabubot](https://github.com/inumabu/mabubot) | A Discord bot built to make communities more fun and useful | `TypeScript` |
 | 🎲 [asobibot](https://github.com/inumabu/asobibot) | Japanese Discord bot for games and entertainment | `Python` |
-| 🔊 [yomiage](https://github.com/inumabu/yomiage) | Discord bot that reads conversations aloud with VOICEVOX | `Go` |
+| 🔊 [yomiage](https://github.com/inumabu/yomiage) | Low-memory VOICEVOX deployment set for reading Discord messages aloud, with TTS caching and DAVE support | `Go` |
 | 🧰 [kokoneads](https://github.com/inumabu/kokoneads) | A collection of web tools for everyday development tasks | `HTML` |
 | ☕ [java-learning-support](https://github.com/inumabu/java-learning-support) | Web learning support site for studying Java | `Java` |
 | 🚀 [touwa-editor](https://github.com/inumabu/touwa-editor) | Modern desktop code editor for Windows | `TypeScript` |

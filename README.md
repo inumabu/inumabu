@@ -55,7 +55,7 @@ Webアプリ、Discord Bot、AI、開発者向けツール、ゲーム、デス�
 | 🌙 [yanagi](https://github.com/inumabu/yanagi) | Discord Botを支える統合エコシステム基盤 | `TypeScript` |
 | 🤖 [mabubot](https://github.com/inumabu/mabubot) | コミュニティを楽しく便利にするDiscord Bot | `TypeScript` |
 | 🎲 [asobibot](https://github.com/inumabu/asobibot) | みんなで遊べる日本語向けDiscord Bot | `Python` |
-| 🔊 [yomiage](https://github.com/inumabu/yomiage) | Discordの会話をVOICEVOXで読み上げるBot | `Go` |
+| 🔊 [yomiage](https://github.com/inumabu/yomiage) | Discordのメッセージを読み上げる、低メモリ環境向けVOICEVOX配布・運用セット | `Go` |
 | 🧰 [kokoneads](https://github.com/inumabu/kokoneads) | 日常の開発作業を効率化するWebツール集 | `HTML` |
 | ☕ [java-learning-support](https://github.com/inumabu/java-learning-support) | Javaを学ぶためのWeb学習支援サイト | `Java` |
 | 🚀 [touwa-editor](https://github.com/inumabu/touwa-editor) | Windows向けのモダンなデスクトップコードエディタ | `TypeScript` |
