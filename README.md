@@ -4,8 +4,8 @@
 
 ### 🛠️ なんでも作る個人開発者
 
-Webアプリ、Discord Bot、開発者向けツール、AIエージェント、デスクトップアプリ、プログラミング言語まで。
-**TypeScript・Python・Go・Ruby・Java** を中心に、作りたいものを実際に動くところまで作っています。
+Webアプリ、Discord Bot、AI、開発者向けツール、デスクトップアプリ、プログラミング言語など、
+**「作ってみたい」を実際に動くものへ**変えています。
 
 [![GitHub](https://img.shields.io/badge/GitHub-inumabu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inumabu)
 [![Repositories](https://img.shields.io/badge/Projects-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inumabu?tab=repositories)
@@ -19,45 +19,45 @@ Webアプリ、Discord Bot、開発者向けツール、AIエージェント、�
 
 ## 👋 About me
 
-ジャンルを固定せず、**「これ作ってみたい」から始めて、実際に動くところまで持っていく**個人開発者です。
+ジャンルを固定せず、興味のあるものを小さく作って、動かして、改善していく個人開発者です。
 
-Discordまわりの開発を中心に、Web、AI、開発者向けツール、デスクトップアプリ、音声、プログラミング言語など、面白そうなものは何でも触ります。
+Discordを中心に、Web、AI、開発者向けツール、デスクトップアプリ、音声、プログラミング言語まで幅広く開発しています。
 
-| | What I make |
+| | Focus |
 | --- | --- |
 | 🌐 | Web apps / Websites |
 | 🤖 | Discord bots / Community tools |
-| 🧰 | Developer tools / Utilities |
 | 🧠 | AI agents / LLM experiments |
+| 🧰 | Developer tools / Utilities |
 | 🖥️ | Desktop applications |
 | 🔊 | Voice / Audio projects |
 | 🧪 | Programming languages / Experiments |
 
 ## 🚀 Projects
 
-**現在公開しているリポジトリの中から、開発内容が分かりやすいものをまとめています。**
+**現在公開している主要プロジェクトです。**
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| 🌙 [yanagi](https://github.com/inumabu/yanagi) | Discord Bot Ecosystemの基盤。API、Bot、TTS Worker、Dashboard、運用基盤を分離した構成 | `TypeScript` · `Cloudflare Workers` · `Hono` · `discord.js` · `React/Vite` · `Docker` |
-| 🤖 [mabubot](https://github.com/inumabu/mabubot) | 多機能なDiscordコミュニティBot。機能を10個の公開Slash Command入口へ統合 | `TypeScript` · `discord.js` |
-| 🧠 [mojule](https://github.com/inumabu/mojule) | 知識・機能・推論をモジュール化する独立型AIエージェント。レシピ、履歴、非同期ジョブ、認証/RBACに対応 | `TypeScript` · `React` · `Vite` · `Express` |
-| 🚀 [touwa-editor](https://github.com/inumabu/touwa-editor) | Windowsを主要対象とするデスクトップコードエディタのFoundation。Renderer / Preload / Mainを分離 | `Electron` · `React` · `TypeScript` · `Monaco Editor` |
-| ☕ [java-learning-support](https://github.com/inumabu/java-learning-support) | Java学習支援WebサイトのSkeleton。学習サイト入口、Oracle接続、ヘルスチェック、Docker Composeなどを実装 | `Java 21` · `Spring Boot` · `Thymeleaf` · `Oracle` |
-| 🔊 [yomiage](https://github.com/inumabu/yomiage) | Discordの投稿をVOICEVOXで読み上げるBot。キュー、話者・音量・速度、対象チャンネル制御などに対応 | `Go` · `discordgo` · `VOICEVOX` |
-| 🎲 [asobibot](https://github.com/inumabu/asobibot) | おみくじ・サイコロ・じゃんけん・4択クイズを楽しめるDiscord Bot | `Python` · `discord.py` |
-| 🧰 [kokoneads](https://github.com/inumabu/kokoneads) | JSON・文字列・URL・Markdownなどを扱うブラウザ中心の開発者向けツールサイト | `Ruby` · `Rails 8.1` · `SQLite` · `JavaScript` |
-| 🍅 [aurorasauce](https://github.com/inumabu/aurorasauce) | オーロラソースをテーマにした学習用の小さなプログラミング言語処理系。Pre-Alpha | `Python 3.11+` |
+| 🌙 [yanagi](https://github.com/inumabu/yanagi) | Discord Bot Ecosystemの統合基盤。API、Bot、TTS、Dashboard、運用基盤を分離 | `TypeScript` · `Cloudflare Workers` · `Hono` · `discord.js` · `React/Vite` · `Docker` |
+| 🤖 [mabubot](https://github.com/inumabu/mabubot) | AI、経済、ゲーム、イベント、管理、Voiceなどをまとめた多機能DiscordコミュニティBot | `TypeScript` · `discord.js` |
+| 🧠 [mojule](https://github.com/inumabu/mojule) | 知識・機能・推論を組み合わせるモジュール型AIエージェント | `TypeScript` · `React` · `Vite` · `Express` |
+| 🚀 [touwa-editor](https://github.com/inumabu/touwa-editor) | Windowsを主要対象とするデスクトップコードエディタのFoundation | `Electron` · `React` · `TypeScript` · `Monaco Editor` |
+| ☕ [java-learning-support](https://github.com/inumabu/java-learning-support) | Java学習支援WebサイトのSkeleton。Web、DB、Docker、CIの基盤を整備 | `Java 21` · `Spring Boot` · `Thymeleaf` · `Oracle` |
+| 🔊 [yomiage](https://github.com/inumabu/yomiage) | Discordの投稿をVOICEVOXで読み上げるBot。キューや話者・音量・速度を制御 | `Go` · `discordgo` · `VOICEVOX` |
+| 🎲 [asobibot](https://github.com/inumabu/asobibot) | おみくじ、サイコロ、じゃんけん、4択クイズを楽しめるDiscord Bot | `Python` · `discord.py` |
+| 🧰 [kokoneads](https://github.com/inumabu/kokoneads) | JSON、文字列、URL、Markdownなどを扱う開発者向けWebツールサイト | `Ruby` · `Rails` · `SQLite` · `JavaScript` |
+| 🍅 [aurorasauce](https://github.com/inumabu/aurorasauce) | オーロラソースをテーマにした学習用プログラミング言語処理系 | `Python 3.11+` |
 
 [→ すべてのリポジトリを見る](https://github.com/inumabu?tab=repositories)
 
 ## 🛠️ Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,python,go,ruby,java,rails,spring,js,react,vite,electron,docker&perline=10&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,python,go,ruby,java,js,react,vite,electron,rails,spring,docker&perline=10&theme=dark" alt="Tech stack" />
 </p>
 
-`TypeScript` · `Python` · `Go` · `Ruby` · `Java` · `Rails` · `Spring Boot` · `JavaScript` · `React` · `Vite` · `Electron` · `Monaco Editor` · `Express` · `Cloudflare Workers` · `Hono` · `discord.js` · `discordgo` · `VOICEVOX` · `SQLite` · `Oracle` · `Docker`
+`TypeScript` · `Python` · `Go` · `Ruby` · `Java` · `JavaScript` · `React` · `Vite` · `Electron` · `Rails` · `Spring Boot` · `Express` · `Cloudflare Workers` · `Hono` · `discord.js` · `discordgo` · `VOICEVOX` · `Monaco Editor` · `SQLite` · `Oracle` · `Docker`
 
 ## 🧭 How I work
 
@@ -68,16 +68,7 @@ Discordまわりの開発を中心に、Web、AI、開発者向けツール、�
 
 ## 🔎 Explore
 
-[📁 All repositories](https://github.com/inumabu?tab=repositories) · [🌙 yanagi docs](https://github.com/inumabu/yanagi/tree/main/docs) · [🤖 mabubot docs](https://github.com/inumabu/mabubot/tree/main/docs) · [🧠 mojule](https://github.com/inumabu/mojule) · [🚀 touwa-editor](https://github.com/inumabu/touwa-editor) · [🌐 English README](README.en.md)
-
-## 🤝 Connect
-
-<div align="center">
-
-[![Follow on GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inumabu)
-[![Explore projects](https://img.shields.io/badge/Explore_projects-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inumabu?tab=repositories)
-
-</div>
+[📁 All repositories](https://github.com/inumabu?tab=repositories) · [🌙 yanagi docs](https://github.com/inumabu/yanagi/tree/main/docs) · [🤖 mabubot docs](https://github.com/inumabu/mabubot/tree/main/docs) · [🧠 mojule](https://github.com/inumabu/mojule) · [🚀 touwa-editor](https://github.com/inumabu/touwa-editor)
 
 ---
 
