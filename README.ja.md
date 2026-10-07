@@ -4,7 +4,7 @@
 
 ### 🛠️ なんでも作る個人開発者
 
-Webアプリ、Discord Bot、開発者向けツール、ゲーム、実験的なプロジェクトまで。
+Webアプリ、Discord Bot、開発者向けツール、AIエージェント、プログラミング言語、実験的なプロジェクトまで。
 **TypeScript・Python・Go・Ruby** を中心に、作りたいものを形にしています。
 
 [![GitHub](https://img.shields.io/badge/GitHub-inumabu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inumabu)
@@ -20,23 +20,29 @@ Webアプリ、Discord Bot、開発者向けツール、ゲーム、実験的な
 
 ジャンルを固定せず、**「これ作ってみたい」から始めて、実際に動くところまで持っていく**個人開発者です。
 
-Discordまわりの開発はもちろん、Web、CLI、便利ツール、ゲーム、音声、API連携など、面白そうなものは何でも触ります。
+Discordまわりの開発はもちろん、Web、開発者向けツール、AI、音声、プログラミング言語など、面白そうなものは何でも触ります。
 
 | 分野 | つくっているもの |
 | --- | --- |
 | 🌐 | Webアプリ / Webサイト |
 | 🤖 | Discord Bot / コミュニティツール |
 | 🧰 | 開発者向けツール / 便利ツール |
+| 🧠 | AIエージェント / LLM実験 |
 | 🎮 | ゲーム / インタラクティブなプロジェクト |
 | 🔊 | 音声 / オーディオ関連 |
-| 🧪 | 実験 / プロトタイプ |
+| 🧪 | プログラミング言語 / 実験・プロトタイプ |
 
 ## 🚀 プロジェクト
 
-**Web、Bot、ツール、ゲーム、実験。作りたいと思ったものは、ジャンルを問わず作ります。**
+**Web、Bot、ツール、AI、言語、実験。作りたいと思ったものは、ジャンルを問わず作ります。**
+
+### 🌙 yanagi
+Discord Bot Ecosystem基盤。利用者には一つのYanagiとして見せながら、内部ではRuntime、Deploy、Secret、Scalingの境界ごとに責務を分離しています。
+
+→ https://github.com/inumabu/yanagi
 
 ### 🤖 mabubot
-モジュール構成のDiscordコミュニティBot。
+10個の公開Slash Commandに機能を統合した、モジュール構成のDiscordコミュニティBot。
 
 → https://github.com/inumabu/mabubot
 
@@ -46,32 +52,32 @@ Discordの投稿をVOICEVOXで読み上げるBot。
 → https://github.com/inumabu/yomiage
 
 ### 🎲 asobibot
-おみくじ、サイコロ、じゃんけん、クイズなど、気軽に遊べる機能をまとめたBot。
+おみくじ、サイコロ、じゃんけん、4択クイズなど、気軽に遊べる機能をまとめたBot。
 
 → https://github.com/inumabu/asobibot
 
 ### 🧰 kokoneads
-JSON・文字列・URL・Markdownなどを扱う開発者向けツール。
+JSON・文字列・URL・Markdownなどを扱うブラウザ中心の開発者向けツールサイト。
 
 → https://github.com/inumabu/kokoneads
 
-### 🧪 mabusan
-Next.js + TypeScript を使ったWebアプリ開発プロジェクト。
+### 🧠 mojule
+知識・機能・推論をモジュール化する独立型AIエージェント。レシピ、実行履歴、非同期ジョブ、認証/RBAC、APIキー、OpenAPIドキュメントなどに対応しています。
 
-→ https://github.com/inumabu/mabusan
+→ https://github.com/inumabu/mojule
 
-### 🌿 yanagi
-TypeScriptで進めている新しいプロジェクト。
+### 🍅 aurorasauce
+オーロラソースをテーマにした、学習用の小さなプログラミング言語処理系。現在はPre-Alphaの初期開発段階です。
 
-→ https://github.com/inumabu/yanagi
+→ https://github.com/inumabu/aurorasauce
 
 [→ すべてのリポジトリを見る](https://github.com/inumabu?tab=repositories)
 
 ## 🛠️ 技術スタック
 
-![Skills](https://skillicons.dev/icons?i=ts,python,go,ruby,rails,js,nextjs,discord,sqlite,docker&perline=10&theme=dark)
+![Skills](https://skillicons.dev/icons?i=ts,python,go,ruby,rails,js,react,vite,express,discord,sqlite,docker&perline=10&theme=dark)
 
-`TypeScript` · `Python` · `Go` · `Ruby` · `Rails` · `JavaScript` · `Next.js` · `Discord API` · `VOICEVOX` · `SQLite` · `Docker`
+`TypeScript` · `Python` · `Go` · `Ruby` · `Rails` · `JavaScript` · `React` · `Vite` · `Express` · `discord.js` · `discordgo` · `VOICEVOX` · `SQLite` · `Docker`
 
 ## 🧭 開発スタイル
 
@@ -82,7 +88,7 @@ TypeScriptで進めている新しいプロジェクト。
 
 ## 🔎 探す
 
-[すべてのリポジトリ](https://github.com/inumabu?tab=repositories) · [mabubot docs](https://github.com/inumabu/mabubot/tree/main/docs) · [プロフィールトップ](README.md)
+[すべてのリポジトリ](https://github.com/inumabu?tab=repositories) · [yanagi docs](https://github.com/inumabu/yanagi/tree/main/docs) · [mabubot docs](https://github.com/inumabu/mabubot/tree/main/docs) · [mojule](https://github.com/inumabu/mojule) · [プロフィールトップ](README.md)
 
 ## 🤝 つながる
 
