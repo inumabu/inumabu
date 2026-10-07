@@ -1,16 +1,16 @@
 <div align="center">
 
-# inumabu — English README
+# Mabu — English README
 
 ### 🛠️ An independent developer who builds anything
 
-**Mabu / まぶ** · `@inumabu`
-
-Web apps, Discord bots, AI, developer tools, desktop applications,
-games, audio, programming languages, experiments, and whatever else seems worth building.
+Web apps, Discord bots, AI, developer tools, games, desktop applications, experiments, and more.
+I turn **“I want to build this” into something that actually runs.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-inumabu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inumabu)
 [![Projects](https://img.shields.io/badge/Projects-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inumabu?tab=repositories)
+
+🌐 [Portfolio](https://github.com/inumabu/mabu-no-site) · 🐦 [@xx_mabu_xx](https://x.com/xx_mabu_xx) · 🐦 [@i_mabu_](https://x.com/i_mabu_)
 
 [Back to profile](README.md) · [日本語 README](README.ja.md)
 
@@ -20,74 +20,75 @@ games, audio, programming languages, experiments, and whatever else seems worth 
 
 ## 👋 What I build
 
-I do not stick to one genre. I start with **"I want to build this"** and take it to something that actually runs.
+I don't stick to one genre. I build **whatever seems interesting, useful, or necessary**.
 
-I choose languages, frameworks, and platforms based on what the project needs.
+I choose languages and frameworks based on the thing I want to make, get it running, use it, and improve it.
 
-| | What I make |
+| | Focus |
 | --- | --- |
 | 🌐 | Web apps / Websites |
 | 🤖 | Discord bots / Community tools |
 | 🧠 | AI / LLM / Agents |
 | 🧰 | Developer tools / Utilities |
-| 🖥️ | Desktop applications |
 | 🎮 | Games / Interactive projects |
+| 🖥️ | Desktop applications |
 | 🔊 | Voice / Audio projects |
-| 🧪 | Programming languages / Experiments |
-| 💡 | Prototypes / Anything interesting |
+| 🧪 | Experiments / Prototypes |
 
-## 🚀 Projects
-
-**Current public projects, ordered roughly by recent activity.**
-
-| Project | Description | Language |
-| --- | --- | --- |
-| 🌐 [mabu-no-site](https://github.com/inumabu/mabu-no-site) | Personal portfolio focused on design, implementation, and verification | `HTML` |
-| 🌙 [yanagi](https://github.com/inumabu/yanagi) | An ecosystem foundation for Discord bots | `TypeScript` |
-| 🤖 [mabubot](https://github.com/inumabu/mabubot) | A Discord bot for making communities more fun and useful | `TypeScript` |
-| 🎲 [asobibot](https://github.com/inumabu/asobibot) | A Japanese Discord bot for games and casual interaction | `Python` |
-| 🔊 [yomiage](https://github.com/inumabu/yomiage) | A Discord bot that reads conversations aloud with VOICEVOX | `Go` |
-| 🧰 [kokoneads](https://github.com/inumabu/kokoneads) | A collection of web tools for everyday development tasks | `HTML` |
-| ☕ [java-learning-support](https://github.com/inumabu/java-learning-support) | A web learning support site for Java | `Java` |
-| 🚀 [touwa-editor](https://github.com/inumabu/touwa-editor) | A modern desktop code editor for Windows | `TypeScript` |
-| 🧠 [mojule](https://github.com/inumabu/mojule) | A modular AI agent that combines knowledge and capabilities | `TypeScript` |
-| 🍅 [aurorasauce](https://github.com/inumabu/aurorasauce) | An educational programming language themed around cooking | `Python` |
-
-> `inumabu` itself is the profile repository containing this README.
-> The archived `minase-cfw-bot` is intentionally excluded from the current project list.
-
-[→ Explore all repositories](https://github.com/inumabu?tab=repositories)
-
-## 🛠️ Tech stack
-
-![Skills](https://skillicons.dev/icons?i=ts,python,go,ruby,java,js,react,nextjs,vite,electron,rails,spring,docker&perline=13&theme=dark)
-
-`TypeScript` · `Python` · `Go` · `Ruby` · `Java` · `JavaScript` · `React` · `Next.js` · `Vite` · `Electron` · `Rails` · `Spring Boot` · `Express` · `Hono` · `Cloudflare Workers` · `Docker` · `discord.js` · `VOICEVOX`
-
-## 👤 Profile
+## 📍 Profile
 
 | | |
 | --- | --- |
-| **Name** | Mabu / まぶ |
-| **GitHub** | [@inumabu](https://github.com/inumabu) |
-| **Profile** | [github.com/inumabu](https://github.com/inumabu) |
+| 👤 | **Mabu** (`@inumabu`) |
+| 📍 | **Gunma, Japan** |
+| ✉️ | [wanko.marble@gmail.com](mailto:wanko.marble@gmail.com) |
+| 𝕏 | [@xx_mabu_xx](https://x.com/xx_mabu_xx) · [@i_mabu_](https://x.com/i_mabu_) |
+| 🌐 | [mabu-no-site](https://github.com/inumabu/mabu-no-site) |
 
-### 🔗 Links
+## 🚀 Projects
 
-[GitHub Profile](https://github.com/inumabu) · [All Repositories](https://github.com/inumabu?tab=repositories) · [Portfolio source](https://github.com/inumabu/mabu-no-site)
+These are my current public projects. There is no particular genre restriction.
 
-> Location / SNS / personal-site links are only listed when they can be confirmed from the public GitHub profile.
+| Project | Description | Main language |
+| --- | --- | --- |
+| 🌐 [mabu-no-site](https://github.com/inumabu/mabu-no-site) | Personal portfolio focused on design, implementation, and verification | `HTML` |
+| 🌙 [yanagi](https://github.com/inumabu/yanagi) | Foundation for a Discord Bot ecosystem | `TypeScript` |
+| 🤖 [mabubot](https://github.com/inumabu/mabubot) | A Discord bot built to make communities more fun and useful | `TypeScript` |
+| 🎲 [asobibot](https://github.com/inumabu/asobibot) | Japanese Discord bot for games and entertainment | `Python` |
+| 🔊 [yomiage](https://github.com/inumabu/yomiage) | Discord bot that reads conversations aloud with VOICEVOX | `Go` |
+| 🧰 [kokoneads](https://github.com/inumabu/kokoneads) | A collection of web tools for everyday development tasks | `HTML` |
+| ☕ [java-learning-support](https://github.com/inumabu/java-learning-support) | Web learning support site for studying Java | `Java` |
+| 🚀 [touwa-editor](https://github.com/inumabu/touwa-editor) | Modern desktop code editor for Windows | `TypeScript` |
+| 🧠 [mojule](https://github.com/inumabu/mojule) | Modular AI agent combining knowledge and capabilities | `TypeScript` |
+| 🍅 [aurorasauce](https://github.com/inumabu/aurorasauce) | Educational programming language themed around cooking | `Python` |
+
+[→ Explore all public repositories](https://github.com/inumabu?tab=repositories)
+
+> `minase-cfw-bot` is archived, so it is excluded from the current project list.
+
+## 🛠️ Tech stack
+
+![Skills](https://skillicons.dev/icons?i=ts,python,go,ruby,java,js,html,react,vite,electron,rails,spring,docker&perline=10&theme=dark)
+
+`TypeScript` · `Python` · `Go` · `Ruby` · `Java` · `JavaScript` · `HTML` · `React` · `Vite` · `Electron` · `Rails` · `Spring Boot` · `Express` · `Cloudflare Workers` · `Hono` · `discord.js` · `discordgo` · `VOICEVOX` · `Monaco Editor` · `SQLite` · `Docker`
 
 ## 🧭 How I work
 
 > **Think of something → build it → make it run → try it → improve it**
 
-I choose tools based on the problem, not the other way around.
-When needed, I learn a new language or framework and start with a small working version.
+I choose tools based on **what I am trying to build**, not the other way around.
+
+When needed, I am happy to pick up a new language or framework and keep improving the result.
 
 ## 🔎 Explore
 
-[📁 All repositories](https://github.com/inumabu?tab=repositories) · [🌐 mabu-no-site](https://github.com/inumabu/mabu-no-site) · [🌙 yanagi](https://github.com/inumabu/yanagi) · [🤖 mabubot](https://github.com/inumabu/mabubot) · [🧠 mojule](https://github.com/inumabu/mojule)
+[All repositories](https://github.com/inumabu?tab=repositories) · [Portfolio](https://github.com/inumabu/mabu-no-site) · [yanagi](https://github.com/inumabu/yanagi) · [mabubot](https://github.com/inumabu/mabubot) · [mojule](https://github.com/inumabu/mojule)
+
+## 🤝 Connect
+
+[![Email](https://img.shields.io/badge/Email-wanko.marble%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wanko.marble@gmail.com)
+[![X](https://img.shields.io/badge/X-@xx__mabu__xx-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/xx_mabu_xx)
+[![X](https://img.shields.io/badge/X-@i__mabu__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/i_mabu_)
 
 ---
 

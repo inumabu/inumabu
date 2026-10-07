@@ -1,19 +1,18 @@
 <div align="center">
 
-# inumabu
+# まぶ / Mabu
 
 ### 🛠️ なんでも作る個人開発者
 
-**まぶ / Mabu** · `@inumabu`
-
-Webアプリ、Discord Bot、AI、開発者向けツール、デスクトップアプリ、
-ゲーム、音声、プログラミング言語、実験的なものまで。
-**作りたいと思ったものを、ジャンルを問わず形にしています。**
+Webアプリ、Discord Bot、AI、開発者向けツール、ゲーム、デスクトップアプリ、実験的なものまで、
+**「これ作ってみたい」を実際に動くものへ**変えています。
 
 [![GitHub](https://img.shields.io/badge/GitHub-inumabu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inumabu)
-[![Repositories](https://img.shields.io/badge/Projects-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inumabu?tab=repositories)
+[![Projects](https://img.shields.io/badge/Projects-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inumabu?tab=repositories)
 
-🌐 **[日本語 README](README.ja.md)** · [English README](README.en.md)
+🌐 [Personal site / Portfolio](https://github.com/inumabu/mabu-no-site) · 🐦 [@xx_mabu_xx](https://x.com/xx_mabu_xx) · 🐦 [@i_mabu_](https://x.com/i_mabu_)
+
+**[日本語 README](README.ja.md)** · [English README](README.en.md)
 
 </div>
 
@@ -21,10 +20,9 @@ Webアプリ、Discord Bot、AI、開発者向けツール、デスクトップ�
 
 ## 👋 About me
 
-ジャンルを固定せず、**「これ作ってみたい」から始めて、実際に動くところまで持っていく**個人開発者です。
+ジャンルを固定せず、**面白そうなもの・便利そうなもの・必要なものを何でも作る**個人開発者です。
 
-そのとき必要なもの・面白そうなものに合わせて、言語やフレームワーク、実行環境まで選びます。
-Botを作ったと思ったらWebを作り、Webを作ったと思ったらデスクトップアプリや言語処理系を作っている、そんな感じです。
+作りたいものに合わせて言語やフレームワークを選び、まず動くものを作って、使って、改善していくスタイルです。
 
 | | What I make |
 | --- | --- |
@@ -32,19 +30,28 @@ Botを作ったと思ったらWebを作り、Webを作ったと思ったらデ�
 | 🤖 | Discord bots / Community tools |
 | 🧠 | AI / LLM / Agents |
 | 🧰 | Developer tools / Utilities |
-| 🖥️ | Desktop applications |
 | 🎮 | Games / Interactive projects |
+| 🖥️ | Desktop applications |
 | 🔊 | Voice / Audio projects |
-| 🧪 | Programming languages / Experiments |
-| 💡 | Prototypes / Anything interesting |
+| 🧪 | Experiments / Prototypes |
+
+## 📍 Profile
+
+| | |
+| --- | --- |
+| 👤 | **まぶ / Mabu** (`@inumabu`) |
+| 📍 | **Gunma, Japan** |
+| ✉️ | [wanko.marble@gmail.com](mailto:wanko.marble@gmail.com) |
+| 𝕏 | [@xx_mabu_xx](https://x.com/xx_mabu_xx) · [@i_mabu_](https://x.com/i_mabu_) |
+| 🌐 | [mabu-no-site](https://github.com/inumabu/mabu-no-site) |
 
 ## 🚀 Projects
 
-**現在公開しているプロジェクトです。新しいものほど上に並べています。**
+現在公開しているプロジェクトです。ジャンルは特に決めていません。
 
-| Project | Description | Language |
+| Project | Description | Main language |
 | --- | --- | --- |
-| 🌐 [mabu-no-site](https://github.com/inumabu/mabu-no-site) | 設計・実装・検証を一つの流れとして見せる個人ポートフォリオ | `HTML` |
+| 🌐 [mabu-no-site](https://github.com/inumabu/mabu-no-site) | 設計・実装・検証を一つの流れとして見せるポートフォリオ | `HTML` |
 | 🌙 [yanagi](https://github.com/inumabu/yanagi) | Discord Botを支える統合エコシステム基盤 | `TypeScript` |
 | 🤖 [mabubot](https://github.com/inumabu/mabubot) | コミュニティを楽しく便利にするDiscord Bot | `TypeScript` |
 | 🎲 [asobibot](https://github.com/inumabu/asobibot) | みんなで遊べる日本語向けDiscord Bot | `Python` |
@@ -55,44 +62,36 @@ Botを作ったと思ったらWebを作り、Webを作ったと思ったらデ�
 | 🧠 [mojule](https://github.com/inumabu/mojule) | 知識と機能を組み合わせるモジュール型AIエージェント | `TypeScript` |
 | 🍅 [aurorasauce](https://github.com/inumabu/aurorasauce) | 料理をテーマにした学習用プログラミング言語 | `Python` |
 
-> `inumabu` はこのプロフィールREADMEを置いているリポジトリです。
-> Archived の `minase-cfw-bot` は現在のプロジェクト一覧から除外しています。
+[→ すべての公開リポジトリを見る](https://github.com/inumabu?tab=repositories)
 
-[→ すべてのリポジトリを見る](https://github.com/inumabu?tab=repositories)
+> `minase-cfw-bot` はArchivedのため、現在のプロジェクト一覧からは除外しています。
 
 ## 🛠️ Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,python,go,ruby,java,js,react,nextjs,vite,electron,rails,spring,docker&perline=13&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,python,go,ruby,java,js,html,react,vite,electron,rails,spring,docker&perline=10&theme=dark" alt="Tech stack" />
 </p>
 
-`TypeScript` · `Python` · `Go` · `Ruby` · `Java` · `JavaScript` · `React` · `Next.js` · `Vite` · `Electron` · `Rails` · `Spring Boot` · `Express` · `Hono` · `Cloudflare Workers` · `Docker` · `discord.js` · `VOICEVOX`
-
-## 👤 Profile
-
-| | |
-| --- | --- |
-| **Name** | まぶ / Mabu |
-| **GitHub** | [@inumabu](https://github.com/inumabu) |
-| **Profile** | [github.com/inumabu](https://github.com/inumabu) |
-
-### 🔗 Links
-
-[GitHub Profile](https://github.com/inumabu) · [All Repositories](https://github.com/inumabu?tab=repositories) · [Portfolio source](https://github.com/inumabu/mabu-no-site)
-
-> Location / SNS / personal-site links are not added here unless they can be confirmed from the public GitHub profile.
+`TypeScript` · `Python` · `Go` · `Ruby` · `Java` · `JavaScript` · `HTML` · `React` · `Vite` · `Electron` · `Rails` · `Spring Boot` · `Express` · `Cloudflare Workers` · `Hono` · `discord.js` · `discordgo` · `VOICEVOX` · `Monaco Editor` · `SQLite` · `Docker`
 
 ## 🧭 How I work
 
 > **思いつく → 作る → 動かす → 試す → 改善する**
 
-技術を目的にするより、**目的に合わせて道具を選ぶ**スタイルです。
-必要なら新しい言語やフレームワークも触り、まず動くものを作ってから育てていきます。
+技術を先に決めるのではなく、**作りたいものに合わせて道具を選ぶ**スタイルです。
+
+新しい言語やフレームワークも必要になれば触り、完成度を上げながら育てていきます。
 
 ## 🔎 Explore
 
 [📁 All repositories](https://github.com/inumabu?tab=repositories) · [🌐 mabu-no-site](https://github.com/inumabu/mabu-no-site) · [🌙 yanagi](https://github.com/inumabu/yanagi) · [🤖 mabubot](https://github.com/inumabu/mabubot) · [🧠 mojule](https://github.com/inumabu/mojule)
 
+## 🤝 Connect
+
+[![Email](https://img.shields.io/badge/Email-wanko.marble%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wanko.marble@gmail.com)
+[![X](https://img.shields.io/badge/X-@xx__mabu__xx-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/xx_mabu_xx)
+[![X](https://img.shields.io/badge/X-@i__mabu__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/i_mabu_)
+
 ---
 
-<sub>🛠️ 便利そうなもの、面白そうなもの、必要なもの。だいたい作ります。</sub>
+<sub>🛠️ 面白そうなもの、便利そうなもの、必要なもの。だいたい作ります。</sub>
